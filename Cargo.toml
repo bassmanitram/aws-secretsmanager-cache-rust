@@ -12,9 +12,9 @@ keywords = ["aws", "aws-secrets-manager", "aws-sdk-rust", "LRU", "cache"]
 categories = ["caching"]
 
 [dependencies]
-aws-config = "0"
-aws-sdk-config = "0"
-aws-sdk-secretsmanager = "0"
+aws-config = "0.57"
+aws-sdk-config = "0.36"
+aws-sdk-secretsmanager = "0.36"
 lru = "0.12.0"
 
 [dev-dependencies]
